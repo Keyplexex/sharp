@@ -1,0 +1,12 @@
+/Users/darasegoleva/Documents/c#/lab1/CourseManagementSystem/bin/Debug/net8.0/CourseManagementSystem.deps.json
+/Users/darasegoleva/Documents/c#/lab1/CourseManagementSystem/bin/Debug/net8.0/CourseManagementSystem.dll
+/Users/darasegoleva/Documents/c#/lab1/CourseManagementSystem/bin/Debug/net8.0/CourseManagementSystem.pdb
+/Users/darasegoleva/Documents/c#/lab1/CourseManagementSystem/obj/Debug/net8.0/CourseManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darasegoleva/Documents/c#/lab1/CourseManagementSystem/obj/Debug/net8.0/CourseManagementSystem.AssemblyInfoInputs.cache
+/Users/darasegoleva/Documents/c#/lab1/CourseManagementSystem/obj/Debug/net8.0/CourseManagementSystem.AssemblyInfo.cs
+/Users/darasegoleva/Documents/c#/lab1/CourseManagementSystem/obj/Debug/net8.0/CourseManagementSystem.csproj.CoreCompileInputs.cache
+/Users/darasegoleva/Documents/c#/lab1/CourseManagementSystem/obj/Debug/net8.0/CourseManagementSystem.sourcelink.json
+/Users/darasegoleva/Documents/c#/lab1/CourseManagementSystem/obj/Debug/net8.0/CourseManagementSystem.dll
+/Users/darasegoleva/Documents/c#/lab1/CourseManagementSystem/obj/Debug/net8.0/refint/CourseManagementSystem.dll
+/Users/darasegoleva/Documents/c#/lab1/CourseManagementSystem/obj/Debug/net8.0/CourseManagementSystem.pdb
+/Users/darasegoleva/Documents/c#/lab1/CourseManagementSystem/obj/Debug/net8.0/ref/CourseManagementSystem.dll

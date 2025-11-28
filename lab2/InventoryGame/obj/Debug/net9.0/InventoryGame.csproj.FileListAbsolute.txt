@@ -1,0 +1,15 @@
+/Users/darasegoleva/Documents/c#/InventorySolution/InventoryGame/obj/Debug/net9.0/InventoryGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darasegoleva/Documents/c#/InventorySolution/InventoryGame/obj/Debug/net9.0/InventoryGame.AssemblyInfoInputs.cache
+/Users/darasegoleva/Documents/c#/InventorySolution/InventoryGame/obj/Debug/net9.0/InventoryGame.AssemblyInfo.cs
+/Users/darasegoleva/Documents/c#/InventorySolution/InventoryGame/obj/Debug/net9.0/InventoryGame.csproj.CoreCompileInputs.cache
+/Users/darasegoleva/Documents/c#/InventorySolution/InventoryGame/obj/Debug/net9.0/InventoryGame.sourcelink.json
+/Users/darasegoleva/Documents/c#/InventorySolution/InventoryGame/bin/Debug/net9.0/InventoryGame
+/Users/darasegoleva/Documents/c#/InventorySolution/InventoryGame/bin/Debug/net9.0/InventoryGame.deps.json
+/Users/darasegoleva/Documents/c#/InventorySolution/InventoryGame/bin/Debug/net9.0/InventoryGame.runtimeconfig.json
+/Users/darasegoleva/Documents/c#/InventorySolution/InventoryGame/bin/Debug/net9.0/InventoryGame.dll
+/Users/darasegoleva/Documents/c#/InventorySolution/InventoryGame/bin/Debug/net9.0/InventoryGame.pdb
+/Users/darasegoleva/Documents/c#/InventorySolution/InventoryGame/obj/Debug/net9.0/InventoryGame.dll
+/Users/darasegoleva/Documents/c#/InventorySolution/InventoryGame/obj/Debug/net9.0/refint/InventoryGame.dll
+/Users/darasegoleva/Documents/c#/InventorySolution/InventoryGame/obj/Debug/net9.0/InventoryGame.pdb
+/Users/darasegoleva/Documents/c#/InventorySolution/InventoryGame/obj/Debug/net9.0/InventoryGame.genruntimeconfig.cache
+/Users/darasegoleva/Documents/c#/InventorySolution/InventoryGame/obj/Debug/net9.0/ref/InventoryGame.dll
